@@ -1,0 +1,23 @@
+{
+  "name": "move",
+  "description": "my movie system",
+  "main": "",
+  "authors": [
+    "lailai <739156890@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/libs"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}

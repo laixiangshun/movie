@@ -1,0 +1,25 @@
+{
+  "name": "movie",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.9.5",
+    "serve-static": "^1.12.1",
+    "underscore": "^1.8.3"
+  },
+  "description": "my movie system",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movie",
+    "system"
+  ],
+  "author": "",
+  "license": "ISC"
+}
